@@ -1,4 +1,4 @@
-### Hi there, I'm Edward - aka [Hulkkamedise][website] 👋
+### Hi there, I'm Edward Nagai Adjaloko 👋
 
 ## I'm a Student, and Developer!
 - 🌱 I’m currently learning everything 🤣
