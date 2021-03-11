@@ -3,7 +3,7 @@
 ## I'm a Student and a Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open-minded and looking forward to working with others
-- 🥅 2020 Goals: Buid awesome projects using MERN stack.
+- 🥅 2021 Goals: Buid awesome projects using MERN stack.
 - ⚡ Fun fact: I love learning new things
 
 ### Connect with me:
@@ -27,6 +27,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png" />
 
 
 
