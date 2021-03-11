@@ -27,7 +27,8 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Next" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nect/next.png" />
 
 
 
@@ -38,10 +39,9 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pepetritenisgoosenagasty&show_icons=true&hide_border=true" />
+<img align="left" alt="Edward`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pepetritenisgoosenagasty&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/Hulkkamedise
-[youtube]: https://youtube.com/monogasppar
 [instagram]: https://instagram.com/aphro_dante
 [linkedin]: https://linkedin.com/in/adjaloko_edward
