@@ -1,6 +1,4 @@
 ### Hi there, I'm Edward Nagai Adjaloko 👋
-
-## I'm a Student and a Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open-minded and looking forward to working with others
 - 🥅 2021 Goals: Build awesome projects using MERN stack.
